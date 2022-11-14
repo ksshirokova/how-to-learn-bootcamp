@@ -3,4 +3,6 @@
     color: white;
     overflow: hidden;
     position: relative;
+    z-index: 1;
+    overflow: hidden;
   }

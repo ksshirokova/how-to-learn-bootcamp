@@ -5,14 +5,5 @@
     position: absolute;
     right: 0;
     top: 64px;
-    z-index: 1;
-    animation: rotation 20s linear infinite;
-  }
-  @keyframes rotation{
-    from{
-      transform: rotate(0deg);
-    }
-    to{
-      transform: rotate(360deg);
-    }
+    z-index: -2;
   }
