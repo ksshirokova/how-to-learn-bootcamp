@@ -1,0 +1,8 @@
+.footer__column-link {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  color: white;
+  text-decoration: none;
+  align-items: center;
+}

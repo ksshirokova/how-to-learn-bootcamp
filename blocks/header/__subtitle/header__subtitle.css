@@ -1,14 +1,14 @@
-.header__subtitle{
-    margin: 0;
-    position: absolute;
-    bottom: 30px;
-    align-self: flex-end;
-    z-index: 3;
-    line-height: 25px;
-    font-size: 18px;
-    font-weight: normal;
-    max-width: 388px;
-    left: 64px;
-    padding: 0;
-  
-  }
+.header__subtitle {
+  margin: 0;
+  position: absolute;
+  bottom: 30px;
+  align-self: flex-end;
+  z-index: 3;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+  max-width: 388px;
+  left: 64px;
+  padding: 0;
+
+}
